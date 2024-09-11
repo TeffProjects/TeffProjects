@@ -1,0 +1,43 @@
+body{
+  padding: 0;
+  margin: 0;
+
+}
+.nav-links {
+  width: 100%;
+  background: #555;
+  overflow: auto;
+}
+.nav-links a {
+  width: 25%;
+  float: left;
+  padding: 12px;
+  text-decoration: none;
+  color: white;
+  font-size: 17px;
+  text-align: center;
+}
+.nav-links a:hover {
+  background: lightgreen;
+}
+
+.welcome-msg {
+  font-size: 25px;
+  opacity: 0;
+  transform: translateX(-100px);
+  animation: MoveAcrossScreen 10s ease-in infinite;
+}
+
+@keyframes MoveAcrossScreen {
+  100% {transform: translateX(100%);
+        opacity: 1;
+        overflow-y: hidden;}
+}
+@media screen and (max-width: 800px) {
+  .nav-links a {
+    float: none;
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
