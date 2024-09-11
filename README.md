@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TeffProjects
+- 👋 Hi, I’m Teffroy, and I build things for the web
 - 🌱 I’m currently learning C# and SQL
 - 📫 How to reach me ..teffroylesetja@gmail.com 
 
