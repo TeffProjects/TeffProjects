@@ -1,0 +1,51 @@
+
+body {
+  font-family: sans-serif;
+  display: grid;
+  justify-content: center;
+  align-content: center;
+  height: 100vh;
+  color: gold;
+  background: black;
+}
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+.questions {
+  background: grey;
+  width: 700px;
+  border-radius: 10px;
+  padding: 5px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.questions h1 {
+  font-size: 1.5rem;
+  text-transform: capitalize;
+}
+.toggle-button {
+  left: 290px;
+  bottom: 70px;
+  position: relative;
+  padding: 2px;
+  margin-top: 20px;
+  font-size: 1.2rem;
+  border: 2px solid gold;
+
+}
+.toggle-button:hover {
+ cursor: pointer;
+}
+.answers {
+  display: none;
+  text-align: center;
+  text-align: justify;
+
+
+}
+.answers.active {
+  display: flex;
+}
