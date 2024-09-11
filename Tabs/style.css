@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  color: white;
+  font-family: sans-serif;
+}
+.container {
+  display: grid;
+  justify-content: center;
+  background: grey;
+  align-content: center;
+  height: 100vh;
+}
+h1 {
+  text-align: center;
+  margin-bottom: 100px;
+  font-size: 1.7rem;
+}
+.tabs {
+  margin: 0 auto;
+  position: absolute;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  width: 100%;
+  background: grey;
+}
+button {
+  border: none;
+  background: none;
+  color: white;
+  padding: 10px;
+}
+button:hover {
+  background: lightgrey;
+}
+.history {
+  text-align: justify;
+  margin: 5px;
+  padding: 15px;
+  grid-column: span 3;
+}
+.overview {
+  display: none;
+  text-align: justify;
+  margin: 5px;
+  padding: 15px;
+
+}
+.overview.active {
+  display: flex;
+  position: absolute;
+  top: 35px;
+  grid-row: 1;
+  grid-column: span 3;
+  text-align: justify;
+  margin: 5px;
+  padding: 15px;
+}
+span {
+  position: absolute;
+  top: 50px;
+}
