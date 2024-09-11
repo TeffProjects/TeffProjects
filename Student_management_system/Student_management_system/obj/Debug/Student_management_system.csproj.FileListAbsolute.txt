@@ -1,0 +1,30 @@
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.exe.config
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.exe
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.pdb
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Form1.resources
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Properties.Resources.resources
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.csproj.GenerateResource.cache
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.exe
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.pdb
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\Dapper.dll
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\bin\Debug\Dapper.xml
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Login.resources
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Dashboard.resources
+C:\Users\Teffroy\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.csprojResolveAssemblyReference.cache
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.exe.config
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.exe
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.pdb
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.exe
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\Student_management_system.pdb
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\Dapper.dll
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\Dapper.xml
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.csprojResolveAssemblyReference.cache
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Dashboard.resources
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Form1.resources
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Properties.Resources.resources
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.Login.resources
+C:\Users\Teffroy\Documents\Visual Studio 2019\source\repos\Student_management_system\Student_management_system\obj\Debug\Student_management_system.csproj.GenerateResource.Cache
