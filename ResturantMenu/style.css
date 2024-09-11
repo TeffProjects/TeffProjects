@@ -1,0 +1,60 @@
+
+
+body {
+  font-family: "Lato", sans-serif;
+  justify-content: center;
+  display: grid;
+  padding: 0;
+}
+#header {
+  border-bottom: 4px solid gold;
+  text-align: center;
+}
+.buttons button {
+  margin: 20px 35px;
+  background: lightblue;
+  border: none;
+  color: black;
+  border-radius: 5px;
+  padding: 8px;
+  transition: all 0.37s;
+}
+.buttons button:hover {
+  background: cornflowerblue;
+}
+.image img {
+  margin-top: 20px;
+  width: 500px;
+  height: 250px;
+  border: 3px solid gold;
+  border-radius: 5px;
+}
+.desc {
+  width: 500px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid grey;
+  margin: 0;
+}
+.desc #price {
+  position: sticky;
+  left: 200px;
+  bottom: 220px;
+  color: gold;
+  font-size: 1rem;
+}
+h1 {
+  font-size: 1.5rem;
+  color: lightgrey;
+}
+.meal-desc {
+  width: 500px;
+}
+.meal-desc p {
+  text-align: justify;
+  font-size: 0.9rem;
+}
+
+.lunch {
+  display: none;
+}
