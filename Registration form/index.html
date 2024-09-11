@@ -1,0 +1,39 @@
+<!DOCTYPE html>3
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Exercise</title>
+    <link rel="stylesheet" href="exercise2.css">
+  </head>
+  <body>
+    <form action="exercise2.html" method="get">
+      <h1>Registration Form</h1>
+      <fieldset>
+        <legend>Personal information</legend>
+        <div>
+          <label for="firstname">First Name</label><br>
+          <input type="text" id="firstname" name="firstname" placeholder="First Name"><br><hr>
+          <label for="lastname">Last Name</label><br>
+          <input type="text" id="lastname" name="lastname" placeholder="Last Name"><br><hr>
+          Female
+          <input type="radio" name="gender">
+          Male
+          <input type="radio" name="gender"><br><hr>
+          <label for="email">Email</label><br>
+          <input type="email" id="email" name="email" placeholder="E-mail"><br><hr>
+          <label for="country">Select a country</label><br>
+          <select id="country" name="country">
+            <option value="usa">USA</option>
+            <option value="canada">Canada</option>
+            <option value="mzansi">Mzansi</option>
+            <option value="ghana">Ghana</option>
+            <option value="morocco">Morocco</option>
+          </select><br>
+          Comments:<br>
+          <textarea rows="8" cols="80"></textarea><br><hr>
+          <button type="submit" name="submit">Submit</button>
+        </div>
+      </fieldset>
+    </form>
+  </body>
+</html>
